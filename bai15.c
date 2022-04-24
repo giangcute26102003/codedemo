@@ -1,0 +1,1 @@
+tich cac gia tri am trong day la = 48
